@@ -1,2 +1,2 @@
 # Eco-ledger
-my personal project about green environment 
+project about green environment 
